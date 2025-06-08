@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3b9f014-31c6-4f48-8423-a793a9b260f0" name="Changes" comment="add some comment" />
+    <list default="true" id="f3b9f014-31c6-4f48-8423-a793a9b260f0" name="Changes" comment="add some comment">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_music_app/common/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_music_app/common/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,7 +160,7 @@
       <workItem from="1749134035946" duration="483000" />
       <workItem from="1749196406068" duration="17738000" />
       <workItem from="1749303893183" duration="8280000" />
-      <workItem from="1749312203838" duration="5879000" />
+      <workItem from="1749312203838" duration="6632000" />
     </task>
     <task id="LOCAL-00001" summary="load whole project">
       <option name="closed" value="true" />
