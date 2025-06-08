@@ -4,56 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3b9f014-31c6-4f48-8423-a793a9b260f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/my_music_app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_music_app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_music_app/albums/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_music_app/albums/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_music_app/albums/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_music_app/albums/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_music_app/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_music_app/common/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_music_app/common/templatetags/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_music_app/common/templatetags/get_profile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_music_app/common/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_music_app/profiles/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_music_app/profiles/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_music_app/profiles/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_music_app/profiles/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_music_app/profiles/validators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_music_app/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_music_app/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_music_app/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_music_app/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/catalog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/create.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/details.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/typography.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/BrandiCarlile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Lorde.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/headphones.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/musicIcons.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pinkFloyd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/albums/album-add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/albums/album-delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/albums/album-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/albums/album-edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/common/home-no-profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/common/home-with-profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/profiles/profile-delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/profiles/profile-details.html" afterDir="false" />
+    <list default="true" id="f3b9f014-31c6-4f48-8423-a793a9b260f0" name="Changes" comment="load whole project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "papazoff06"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/papazoff06/python_web.git",
+    "accountId": "235d6f7b-9acb-4334-8b90-e8ddba620a7b"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -195,12 +159,25 @@
       <workItem from="1749134035946" duration="483000" />
       <workItem from="1749196406068" duration="17738000" />
       <workItem from="1749303893183" duration="8280000" />
-      <workItem from="1749312203838" duration="4198000" />
+      <workItem from="1749312203838" duration="5347000" />
     </task>
+    <task id="LOCAL-00001" summary="load whole project">
+      <option name="closed" value="true" />
+      <created>1749368628752</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749368628752</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="load whole project" />
+    <option name="LAST_COMMIT_MESSAGE" value="load whole project" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/my_music_app$utils.coverage" NAME="utils Coverage Results" MODIFIED="1749214882420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_music_app" />
